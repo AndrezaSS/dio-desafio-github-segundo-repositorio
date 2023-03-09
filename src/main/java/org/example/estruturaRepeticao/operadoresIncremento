@@ -1,0 +1,11 @@
+OPERADORES DE INCREMENTO E DECREMENTO:
+
+(PRÉ-FIXADO)
+++numero  -> numero = numero + 1 e (retorna numero)
+--numero  -> numero = numero - 1 e (retorna numero)
+
+(PÓS-FIXADO)
+numero++  -> (retorna numero) e numero = numero + 1
+numero--  -> (retorna numero) e numero = numero - 1
+
+(ARRAY)
