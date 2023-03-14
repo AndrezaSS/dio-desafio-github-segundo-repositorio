@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bef01ef3-e831-48af-acac-7b18567a7fc9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/estruturaRepeticao/OperadoresIncremento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/estruturaRepeticao/operadoresIncremento" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/loops/Ex1_NomeEIdade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/loops/Ex2_Notas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/loops/Ex3_MaiorEMedia.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/estruturaRepeticao/OperadoresIncremento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/estruturaRepeticao/operadoresIncremento" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/loops/operadoresIncremento" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +45,39 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ExercicioSwitch">
-    <configuration name="ExercicioIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.controledeFluxo.ExercicioIf" />
+  <component name="RunManager" selected="Application.Ex3_MaiorEMedia">
+    <configuration name="Ex1_NomeEIdade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.loops.Ex1_NomeEIdade" />
       <module name="teste3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.controledeFluxo.*" />
+          <option name="PATTERN" value="org.example.loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex2_Notas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.loops.Ex2_Notas" />
+      <module name="teste3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex3_MaiorEMedia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.loops.Ex3_MaiorEMedia" />
+      <module name="teste3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,39 +111,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinhaClasse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.terminareArgumentos.MinhaClasse" />
-      <module name="teste3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.terminareArgumentos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Usuario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="projetoSmartTv.Usuario" />
-      <module name="teste3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="projetoSmartTv.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex3_MaiorEMedia" />
+        <item itemvalue="Application.Ex2_Notas" />
+        <item itemvalue="Application.Ex1_NomeEIdade" />
         <item itemvalue="Application.ExercicioSwitch" />
         <item itemvalue="Application.ExercicioIf2" />
-        <item itemvalue="Application.ExercicioIf" />
-        <item itemvalue="Application.MinhaClasse" />
-        <item itemvalue="Application.Usuario" />
       </list>
     </recent_temporary>
   </component>
