@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bef01ef3-e831-48af-acac-7b18567a7fc9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/array/Ex4_ArrayMultidimensional.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/array/Ex4_ArrayMultidimensional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/array/Ex4_ArrayMultidimensional.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
